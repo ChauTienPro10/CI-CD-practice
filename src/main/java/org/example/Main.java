@@ -8,5 +8,6 @@ public class Main {
     public static void main(String[] args) {
         TaggingMain taggingMain = new TaggingMain();
         taggingMain.run();
+        System.out.println("hello w");
     }
 }
